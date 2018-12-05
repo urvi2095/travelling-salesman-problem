@@ -1,5 +1,5 @@
 
-# TRAVELLING SALESMAN PROBLEM
+# Travelling Salesman Problem
 The problem we are trying to solve is the Travelling Salesman problem (TSP) which poses a situation that given a set of cities and distances between them, we find the shortest path for a route that visits each city and returns to the original city.
 
 Our implementation approach for the problem is ‘Genetic Algorithm’. Such an approach is well suited for problems that involve huge solution spaces.
